@@ -1,2 +1,3 @@
-# task_list
-Simple example of a task list in HTML, CSS and JavaScript.
+# Lista de Tarefas
+
+Lista de tarefas usando HTML, CSS e JavaScript.
